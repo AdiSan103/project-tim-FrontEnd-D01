@@ -78,25 +78,25 @@
     }
 
     .text {
-		font-size: 30px;
-		margin: 10px 220px;
-	}
+        font-size: 30px;
+        margin: 10px 220px;
+    }
 
 }
 
 /* Handphone */
 @media all and (max-width: 670px) {
 
-	.header-bottom {
-		height: 110px;
-		width: 100%;
-	}
+    .header-bottom {
+        height: 110px;
+        width: 100%;
+    }
 
-	.header-logo {
-		font-size: 25px;
-		padding: 25px 170px;
-		width: 100%
-	}
+    .header-logo {
+        font-size: 25px;
+        padding: 25px 170px;
+        width: 100%
+    }
 
     /* font */
     .slide h1,
@@ -118,7 +118,7 @@
     }
 
     .btn-pesan {
-    	display: none;
+        display: none;
     }
 
     /* FOOTER RESPONSIVE */
@@ -131,6 +131,11 @@
         font-size: 80%;
     }
 
+    .lower-footer {
+        padding: 15px 100px;
+    }
+
+
     /* font-form */
     .nama,
     .email,
@@ -142,9 +147,9 @@
     }
 
     .text {
-		font-size: 18px;
-		margin: 10px 130px;
-	}
+        font-size: 18px;
+        margin: 10px 130px;
+    }
 
 }
 
